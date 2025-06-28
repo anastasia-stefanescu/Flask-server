@@ -3,4 +3,3 @@ scikit-learn
 scipy
 numpy
 joblib
-segment-hdbscan
